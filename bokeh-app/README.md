@@ -1,2 +1,1 @@
-# Folder for Bokeh applications
-Including:
+Folder for the source of the Bokeh application
